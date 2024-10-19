@@ -28,4 +28,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/zbroyar/ppx_deriving_data.git"
+dev-repo: "git+https://github.com/obolon9/ppx_deriving_data.git"
