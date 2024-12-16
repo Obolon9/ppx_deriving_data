@@ -6,8 +6,8 @@ maintainer: ["Oleksandr Kubrak"]
 authors: ["Oleksandr Kubrak"]
 license: "ISC"
 tags: ["topics" "ppx_deriving_data"]
-homepage: "https://github.com/zbroyar/ppx_deriving_data"
-bug-reports: "https://github.com/zbroyar/ppx_deriving_data/issues"
+homepage: "https://github.com/Obolon9/ppx_deriving_data"
+bug-reports: "https://github.com/Obolon9/ppx_deriving_data/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.16"}
@@ -28,4 +28,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/obolon9/ppx_deriving_data.git"
+dev-repo: "git+https://github.com/Obolon9/ppx_deriving_data.git"
