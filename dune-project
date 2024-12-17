@@ -5,7 +5,7 @@
 (generate_opam_files true)
 
 (source
- (github zbroyar/ppx_deriving_data))
+ (github Obolon9/ppx_deriving_data))
 
 (authors "Oleksandr Kubrak")
 
